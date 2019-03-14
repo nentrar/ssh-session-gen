@@ -6,8 +6,6 @@ Desktop application for generating multiple ssh sessions with executing commands
 This is application written in Python 2.7, using Tkinter GUI package. It was created to automate tests consisting of generating multiple
 ssh sessions with few commands used in each. I made it desktop so it will be easy to use for "non-command-line-users" too. 
 
-You can find .exe file in the dist/session_generator/session_generator.exe
-
 ### How to use?
 
 The application is divided by 3 sections:
